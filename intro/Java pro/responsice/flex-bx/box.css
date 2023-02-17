@@ -1,0 +1,10 @@
+@import url(https://fonts.google.com/about);
+h1{
+    font-family: 'Rubik Gemstones', cursive;
+    letter-spacing: 50px;
+    font-size: 60px;
+    background-color:antiquewhite;
+    text-shadow: 10px 10px blue;
+    text-align: center;
+    border-radius: 18px;
+}

@@ -1,0 +1,33 @@
+.container{
+    border-style:solid;
+    width: 1010px;
+    height: 1050px;
+   
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    border-style:20px;
+    border-radius: 5px;
+    
+
+}
+.purple{
+    background-color: bisque;
+    position:sticky;
+    top:0px;
+    right:0px;
+}
+.red{
+    background-color: aqua;
+    position:relative;
+    top:0px;
+    left:0px;
+}
+.yellow{
+    background-color: blue;
+}
+.green{
+    background-color: brown;
+}
